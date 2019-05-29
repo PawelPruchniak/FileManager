@@ -1,5 +1,5 @@
-##### file manager modeled like Total Commander
-###### functionality:
+### file manager modeled like Total Commander
+#### functionality:
 - basic file manager function
 - making new folders
 - deleting files
