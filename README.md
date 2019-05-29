@@ -9,5 +9,7 @@
 - built-in graphical file browser
 - built-in text file browser
 - editing file with default program
+
 filemanager look:
+
 
