@@ -11,5 +11,6 @@
 - editing file with default program
 
 filemanager look:
+![alt text](https://github.com/PawelPruchniak/FileManager/blob/master/example.png)
 
 
