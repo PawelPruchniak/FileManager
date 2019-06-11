@@ -23,7 +23,9 @@ namespace TotalCommanderProjectV2.Views
     {
         // pola
         FileManager fileManager;
-        string currentLocation = @"C:\Users\Paweł\Desktop\Pliki";
+        
+        // you can set start location
+        string currentLocation = "";
 
         // właściwości
         public bool IsSelected { get; internal set; }
@@ -34,7 +36,6 @@ namespace TotalCommanderProjectV2.Views
         {
             this.fileManager = new FileManager();
             InitializeComponent();
-            RefreshPath(currentLocation);
         }
 
         // metody
