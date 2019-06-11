@@ -10,7 +10,7 @@
 - built-in text file browser
 - editing file with default program
 
-filemanager look:
+filemanager appearance:
 ![alt text](https://github.com/PawelPruchniak/FileManager/blob/master/example.png)
 
 
